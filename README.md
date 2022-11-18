@@ -54,7 +54,7 @@
 <img width="1440" alt="Acess1" src="https://user-images.githubusercontent.com/79027915/202641066-65d6c970-e46d-4414-b1d5-03e611522bad.png">
 
 ###### Adding Kubernetes Engine Developer and Storage Admin
-<img width="1440" alt="Add roles" src="https://user-images.githubusercontent.com/79027915/202631582-739a5180-ebac-4c20-b0b3-bea77c4618f8.png">
+<img width="1440" alt="Access2" src="https://user-images.githubusercontent.com/79027915/202641059-919bffe7-3958-4811-b563-d4e7c62df070.png">
 
 ###### Result After Adding Roles 
 <img width="1440" alt="Access3" src="https://user-images.githubusercontent.com/79027915/202641051-05c6d24d-6c7a-4cb3-9d88-ffaa7f936c03.png">
