@@ -59,6 +59,35 @@
 ###### Result After Adding Roles 
 <img width="1440" alt="Result of grant acess" src="https://user-images.githubusercontent.com/79027915/202631569-94c351e5-ece6-489c-902a-3aa77846e96a.png">
 
+###### Enable AMI API
+<img width="1440" alt="AMI API" src="https://user-images.githubusercontent.com/79027915/202635030-db039dda-37e8-4c07-94a3-349460687773.png">
+
+###### Navivation / IAM & Admin / IAM / Service Account
+<img width="1440" alt="key1" src="https://user-images.githubusercontent.com/79027915/202635028-2324a155-dee8-4681-aae1-c297b87b606d.png">
+
+###### Select JSON Key
+<img width="1440" alt="json" src="https://user-images.githubusercontent.com/79027915/202635024-35988fec-bfa6-4870-83d7-92168f3e9ae6.png">
+
+###### Download JSON Key File
+<img width="1440" alt="private key" src="https://user-images.githubusercontent.com/79027915/202635020-4eb80c31-0abf-4436-a001-69a8aa712004.png">
+<img width="1440" alt="key result" src="https://user-images.githubusercontent.com/79027915/202635019-88bce6ec-af25-45b2-a8ba-fcc67d70d3d0.png">
+
+###### GitHub / Repo / Settings / Secrets / Action Secrets
+<img width="1440" alt="git secret1" src="https://user-images.githubusercontent.com/79027915/202635016-0bd41487-51cc-4e62-884a-02e66b4a3279.png">
+
+###### New Repository Secret: GKE_PROJECT
+<img width="1440" alt="gke1" src="https://user-images.githubusercontent.com/79027915/202635010-2445199e-e306-45f2-927b-3b373c5af1ef.png">
+<img width="1440" alt="gke key" src="https://user-images.githubusercontent.com/79027915/202635013-0fce41b8-5678-48b6-bb38-ac6f6397813c.png">
+
+###### New Repository Secret: GKE_SA_KEY
+<img width="1440" alt="jSON file" src="https://user-images.githubusercontent.com/79027915/202635801-e8ce25ce-18be-4f1a-8963-8d65773063b8.png">
+<img width="1440" alt="gke sa" src="https://user-images.githubusercontent.com/79027915/202635005-47e2254c-8ec3-4d05-9bac-859b8bf1094b.png">
+
+###### Results of ADDING Repository Secrets
+<img width="1440" alt="resultt gke keys" src="https://user-images.githubusercontent.com/79027915/202634984-aaf3f3b0-72ee-4439-b2c7-c75d03a5dd9a.png">
+
+###### 
+###### 
 ###### 
 ###### 
 ###### 
