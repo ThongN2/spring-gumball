@@ -47,7 +47,7 @@
 <img width="1440" alt="Create Service 1" src="https://user-images.githubusercontent.com/79027915/202631598-e51cf776-37f7-47a1-b719-d4da54b92858.png">
 
 ###### Enable Resource Manger API
-"1440" alt="Resource Manager API" src="https://user-images.githubusercontent.com/79027915/202631595-935482e6-4ca7-4bb2-a869-64e9b472bcd5.png">
+<img width="1440" alt="Resource Manager API" src="https://user-images.githubusercontent.com/79027915/202631595-935482e6-4ca7-4bb2-a869-64e9b472bcd5.png">
 
 ###### Grant Access / Select Service Account "spring-gumball"
 <img width="1440" alt="Navigation" src="https://user-images.githubusercontent.com/79027915/202631593-7e69cd63-6f00-47aa-94f6-42b91a489645.png">
