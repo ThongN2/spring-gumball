@@ -51,13 +51,13 @@
 
 ###### Grant Access / Select Service Account "spring-gumball"
 <img width="1440" alt="Navigation" src="https://user-images.githubusercontent.com/79027915/202631593-7e69cd63-6f00-47aa-94f6-42b91a489645.png">
-<img width="1440" alt="Add principal" src="https://user-images.githubusercontent.com/79027915/202631589-e97362ce-ff54-4839-8a36-abfe4c57d888.png">
+<img width="1440" alt="Acess1" src="https://user-images.githubusercontent.com/79027915/202641066-65d6c970-e46d-4414-b1d5-03e611522bad.png">
 
 ###### Adding Kubernetes Engine Developer and Storage Admin
 <img width="1440" alt="Add roles" src="https://user-images.githubusercontent.com/79027915/202631582-739a5180-ebac-4c20-b0b3-bea77c4618f8.png">
 
 ###### Result After Adding Roles 
-<img width="1440" alt="Result of grant acess" src="https://user-images.githubusercontent.com/79027915/202631569-94c351e5-ece6-489c-902a-3aa77846e96a.png">
+<img width="1440" alt="Access3" src="https://user-images.githubusercontent.com/79027915/202641051-05c6d24d-6c7a-4cb3-9d88-ffaa7f936c03.png">
 
 ###### Enable AMI API
 <img width="1440" alt="AMI API" src="https://user-images.githubusercontent.com/79027915/202635030-db039dda-37e8-4c07-94a3-349460687773.png">
