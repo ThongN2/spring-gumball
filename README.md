@@ -97,12 +97,19 @@
 <img width="1440" alt="2 35" src="https://user-images.githubusercontent.com/79027915/202647700-a744251b-c727-4a8c-8534-b3fc7ca56026.png">
 <img width="1440" alt="2 36" src="https://user-images.githubusercontent.com/79027915/202647695-737704f3-6cb8-4b8b-9012-b0f832023d6e.png">
 
+###### Create google.yml
+<img width="1440" alt="Create google" src="https://user-images.githubusercontent.com/79027915/202650176-f5267637-e506-46ec-bc1f-dc0a91850dca.png">
+
+###### Change the values for the GKE_ZONE, GKE_CLUSTER, IMAGE, and DEPLOYMENT_NAME environment variables
+<img width="1440" alt="Edit google" src="https://user-images.githubusercontent.com/79027915/202650184-271e7935-0191-4780-ba37-e83633ee2b6f.png">
+
 ###### New GKE Deployment
 <img width="1440" alt="Depl" src="https://user-images.githubusercontent.com/79027915/202647689-f336a149-020d-4385-9cf1-f017b6758f2b.png">
+
 ###### GKE Service
 <img width="1440" alt="Sv1" src="https://user-images.githubusercontent.com/79027915/202647687-99ca8eea-5a2b-4aef-8c36-2c6a8f7d2651.png">
 
-######  GKE Ingress
+###### GKE Ingress
 <img width="1440" alt="I1" src="https://user-images.githubusercontent.com/79027915/202647683-2e06b526-4621-43b6-9fdb-68d607e8837a.png">
 <img width="1440" alt="Ingress" src="https://user-images.githubusercontent.com/79027915/202648786-5752b742-4a0d-44ad-9138-3fcf0b0b399f.png">
 
