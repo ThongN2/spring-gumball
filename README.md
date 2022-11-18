@@ -89,6 +89,13 @@
 ###### GKE Deployment Before Pushing Release
 <img width="1440" alt="Deploy1" src="https://user-images.githubusercontent.com/79027915/202647727-b790e83e-3230-479f-bcfd-e94f636a81b3.png">
 
+###### Create google.yml
+<img width="1440" alt="Create google" src="https://user-images.githubusercontent.com/79027915/202650176-f5267637-e506-46ec-bc1f-dc0a91850dca.png">
+
+###### Change the values for the GKE_ZONE, GKE_CLUSTER, IMAGE, and DEPLOYMENT_NAME environment variables
+<img width="1440" alt="Edit google" src="https://user-images.githubusercontent.com/79027915/202650184-271e7935-0191-4780-ba37-e83633ee2b6f.png">
+
+
 ###### Pushing 2.3 RELEASE
 <img width="1440" alt="2 31" src="https://user-images.githubusercontent.com/79027915/202647718-b71adfc9-dca9-4689-9b81-21cf48d27f1b.png">
 <img width="1440" alt="2 32" src="https://user-images.githubusercontent.com/79027915/202647714-b5aeac0c-4065-41f7-9ba7-047cf2f7c74c.png">
@@ -96,12 +103,6 @@
 <img width="1440" alt="2 34" src="https://user-images.githubusercontent.com/79027915/202647703-2e39e2a9-9a6e-45ad-b271-054fc3d49dce.png">
 <img width="1440" alt="2 35" src="https://user-images.githubusercontent.com/79027915/202647700-a744251b-c727-4a8c-8534-b3fc7ca56026.png">
 <img width="1440" alt="2 36" src="https://user-images.githubusercontent.com/79027915/202647695-737704f3-6cb8-4b8b-9012-b0f832023d6e.png">
-
-###### Create google.yml
-<img width="1440" alt="Create google" src="https://user-images.githubusercontent.com/79027915/202650176-f5267637-e506-46ec-bc1f-dc0a91850dca.png">
-
-###### Change the values for the GKE_ZONE, GKE_CLUSTER, IMAGE, and DEPLOYMENT_NAME environment variables
-<img width="1440" alt="Edit google" src="https://user-images.githubusercontent.com/79027915/202650184-271e7935-0191-4780-ba37-e83633ee2b6f.png">
 
 ###### New GKE Deployment
 <img width="1440" alt="Depl" src="https://user-images.githubusercontent.com/79027915/202647689-f336a149-020d-4385-9cf1-f017b6758f2b.png">
