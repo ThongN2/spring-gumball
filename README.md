@@ -86,11 +86,26 @@
 ###### Results of ADDING Repository Secrets
 <img width="1440" alt="resultt gke keys" src="https://user-images.githubusercontent.com/79027915/202634984-aaf3f3b0-72ee-4439-b2c7-c75d03a5dd9a.png">
 
-###### 
-###### 
-###### 
-###### 
-###### 
-###### 
-###### 
+###### GKE Deployment Before Pushing Release
+<img width="1440" alt="Deploy1" src="https://user-images.githubusercontent.com/79027915/202647727-b790e83e-3230-479f-bcfd-e94f636a81b3.png">
+
+###### Pushing 2.3 RELEASE
+<img width="1440" alt="2 31" src="https://user-images.githubusercontent.com/79027915/202647718-b71adfc9-dca9-4689-9b81-21cf48d27f1b.png">
+<img width="1440" alt="2 32" src="https://user-images.githubusercontent.com/79027915/202647714-b5aeac0c-4065-41f7-9ba7-047cf2f7c74c.png">
+<img width="1440" alt="2 33" src="https://user-images.githubusercontent.com/79027915/202647708-34e0f036-5aad-4ea7-96a5-605917e63c66.png">
+<img width="1440" alt="2 34" src="https://user-images.githubusercontent.com/79027915/202647703-2e39e2a9-9a6e-45ad-b271-054fc3d49dce.png">
+<img width="1440" alt="2 35" src="https://user-images.githubusercontent.com/79027915/202647700-a744251b-c727-4a8c-8534-b3fc7ca56026.png">
+<img width="1440" alt="2 36" src="https://user-images.githubusercontent.com/79027915/202647695-737704f3-6cb8-4b8b-9012-b0f832023d6e.png">
+
+###### New GKE Deployment
+<img width="1440" alt="Depl" src="https://user-images.githubusercontent.com/79027915/202647689-f336a149-020d-4385-9cf1-f017b6758f2b.png">
+###### GKE Service
+<img width="1440" alt="Sv1" src="https://user-images.githubusercontent.com/79027915/202647687-99ca8eea-5a2b-4aef-8c36-2c6a8f7d2651.png">
+
+######  GKE Ingress
+<img width="1440" alt="I1" src="https://user-images.githubusercontent.com/79027915/202647683-2e06b526-4621-43b6-9fdb-68d607e8837a.png">
+<img width="1440" alt="Ingress" src="https://user-images.githubusercontent.com/79027915/202648786-5752b742-4a0d-44ad-9138-3fcf0b0b399f.png">
+
+###### Web UI  on Load Balancer's External IP 
+<img width="1440" alt="lb external" src="https://user-images.githubusercontent.com/79027915/202649005-23aad05e-f6cb-430c-93a3-c8a55c2d9a33.png">
 
