@@ -76,8 +76,8 @@
 <img width="1440" alt="git secret1" src="https://user-images.githubusercontent.com/79027915/202635016-0bd41487-51cc-4e62-884a-02e66b4a3279.png">
 
 ###### New Repository Secret: GKE_PROJECT
-<img width="1440" alt="gke1" src="https://user-images.githubusercontent.com/79027915/202635010-2445199e-e306-45f2-927b-3b373c5af1ef.png">
 <img width="1440" alt="gke key" src="https://user-images.githubusercontent.com/79027915/202635013-0fce41b8-5678-48b6-bb38-ac6f6397813c.png">
+<img width="1440" alt="gke1" src="https://user-images.githubusercontent.com/79027915/202635010-2445199e-e306-45f2-927b-3b373c5af1ef.png">
 
 ###### New Repository Secret: GKE_SA_KEY
 <img width="1440" alt="jSON file" src="https://user-images.githubusercontent.com/79027915/202635801-e8ce25ce-18be-4f1a-8963-8d65773063b8.png">
